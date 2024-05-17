@@ -1,0 +1,11 @@
+{
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": [
+    "TwoDArrays",
+    "OOPS/Abstraction",
+    "Loops",
+    "ExceptionHandling",
+    "Arrays",
+    "Strings"
+  ]
+}
